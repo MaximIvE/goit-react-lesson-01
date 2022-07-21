@@ -19,10 +19,10 @@ const paintGallery = [
       tag: 'ractapopulous',
       url: 'https://upload.wikimedia.org/wikipedia/ru/thumb/3/35/%D0%91%D0%BE%D0%B1_%D0%A0%D0%BE%D1%81%D1%81.jpg/280px-%D0%91%D0%BE%D0%B1_%D0%A0%D0%BE%D1%81%D1%81.jpg',
     },
-    quantity: 10,
+    quantity: 15,
   },
   {
-    id: 'id-2',
+    id: 'id-3',
     url: 'https://cdn.pixabay.com/photo/2017/09/04/22/40/flowers-2715804_1280.jpg',
     title: 'Flowers. Tulip nature art abstract',
     price: 600,
@@ -30,7 +30,7 @@ const paintGallery = [
       tag: 'ractapopulous',
       url: 'https://upload.wikimedia.org/wikipedia/ru/thumb/3/35/%D0%91%D0%BE%D0%B1_%D0%A0%D0%BE%D1%81%D1%81.jpg/280px-%D0%91%D0%BE%D0%B1_%D0%A0%D0%BE%D1%81%D1%81.jpg',
     },
-    quantity: 10,
+    quantity: 5,
   },
   ];
 
